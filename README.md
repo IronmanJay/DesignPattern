@@ -40,3 +40,16 @@
 4. Ocp-------->开闭原则
 5. segregation-------->接口隔离原则
 6. singleresponsibility-------->单一职责原则
+
+## 二、JDKSrc
+1. Builder-------->建造者模式在StringBuilder中的使用
+2. Composite-------->组合模式在HashMap中的使用
+3. Decorator-------->装饰者模式在IO流中的使用
+4. Factory-------->工厂模式在Calendar中的使用
+5. FlyWeight-------->享元模式在Integer中的使用
+6. Iterator-------->迭代器模式在Iterator中的使用
+7. Observer-------->观察者模式在Observable中的使用
+8. Singleton-------->单例模式在Runtime中的使用
+9. Strategy-------->策略模式在Comparator中的使用
+10. MyBatis-------->MyBatis中设计模式的使用
+11. Spring-------->Spring中设计模式的使用
