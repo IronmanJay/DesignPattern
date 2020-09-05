@@ -1,0 +1,10 @@
+
+H
+java:S1068	"-Remove this unused "cloneName" private field.(äê±üÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀùŸ¢ùÿÿÿÿ
+I
+java:S1068".Remove this unused "cloneClass" private field.(ïë÷Ãûÿÿÿÿ
+=
+java:S1185"(Remove this method to simply inherit it.(™”” 
+h
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(™”” 

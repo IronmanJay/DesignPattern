@@ -1,0 +1,8 @@
+
+N
+java:S1153"1Directly append the argument of String.valueOf().(ü‘Úæ8ÆÍ©½Å.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤ Ñáÿÿÿÿÿ
+ˆ
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(Ø¸íóÿÿÿÿÿ
+J
+java:S1066"/Merge this if statement with the enclosing one.(”éô¯þÿÿÿÿ

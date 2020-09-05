@@ -1,0 +1,10 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…ö¢Ñ
+u
+java:S1192"SDefine a constant instead of duplicating this literal "ç›´ç«‹æ ·å¼æ‰‹æœº" 3 times.(±Áü¶ıÿÿÿÿ8¼Šã¿.
+\
+java:S1161":Add the "@Override" annotation above this method signature(—µ±şıÿÿÿÿ8Ü˜‰ã¿.
+\
+java:S1161":Add the "@Override" annotation above this method signature(”ª…Œÿÿÿÿÿ8Ü˜‰ã¿.
+\
+java:S1161":Add the "@Override" annotation above this method signature(õŸ´øüÿÿÿÿ8Ü˜‰ã¿.

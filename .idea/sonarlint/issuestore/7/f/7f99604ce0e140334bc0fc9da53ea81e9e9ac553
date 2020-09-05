@@ -1,0 +1,10 @@
+
+\
+java:S1161"":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ8×šé¡Ä.
+p
+java:S2272"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(«ŞÄ•ùÿÿÿÿ8¹«Ş¡Ä.
+L
+java:S3740"/Provide the parametrized type for this generic.(ÇˆÈ8š”Ş¡Ä.
+c
+java:S1126"AReplace this if-then-else statement by a single return statement.(Œ³ĞÎùÿÿÿÿ8ŠÎå¡Ä.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯Í—ªùÿÿÿÿ

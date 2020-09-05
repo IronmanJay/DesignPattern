@@ -1,0 +1,6 @@
+
+L
+java:S2093!"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8³üÜè¾.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀùŸ¢ùÿÿÿÿ
+o
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(™”” 8Ðá„è¾.
